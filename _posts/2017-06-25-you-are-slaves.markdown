@@ -1,66 +1,106 @@
 ---
 layout:     post
-title:      "他是狗，你们便是苟奴隶"
+title:      "A Topic on the power in American government"
 subtitle:   ""
-date:       2017-06-24 12:00:00
-author:     "Hux"
+date:       2015-11-25 12:00:00
+author:     "CaiYun"
 header-img: ""
 ---
 
-> 在知乎被删帖，我理解知乎。  
-> 你说你们做不了什么，我也理解你们。  
-> <br/>
-> 只是，总要有人，还敢说点反对的声音吧？    
-> 只是，不想让这一切，看起来都变得如此理所应当吧？  
-> <br/>
-> 你说，你们也抗争了  
-> 那就站出来，让我们相信，你们还在吧？
-
-我甚至都不需要写出 LGL 三个顶天立地的大字，你们便知道我今天要说什么了。
-骂狗官、骂体制、骂 D，骂的人已经够多了。我故是可以再骂，却也深知自己甚至连让他们听到这份声音的能力都没有。
-
-**但今天，我要骂的是你们，至少还能听到我声音的你们。** 我亲爱的同行们啊，那些在微博、知乎与其他社交网络公司工作的你们啊。无论你是我推心置腹的好友，相识或共事过的伙伴，还是素未谋面的陌生人，对不起，今天我要骂的就是你们。
-
-微博，「随时随地发现新鲜事」，这世界 TM 还只能发生你审核过的新建事了？
-
-知乎，「发现更大的世界」，我 TM 还只能发现你审核过的世界了？
-
-好一个又一个讲着漂亮故事的互联网公司啊，你们不是打着 UGC、言论开放的旗号、沾着民智渐开，民主自由的福利吗？好一个又一个独立自强、新时代的互联网员工啊，你们不是为「建设了中国互联网」，打造了一个「用户喜爱的产品」而感到自豪吗？
-
-嘴上说着不要，身体却已经跪在金钱与权势之下任人驱使了嘛。
-
-> 奴隶，通常指失去人身自由并被他人任意驱使的，为他们做事的人。
-
-**这种情况，我们一般称之为「奴隶」。**
-
-<br />
+Today we are going to talk about the topic on power abusing. We hold the view that people want to do what is right, so they will avoid abusing power.
+>To begin with US system of checks and balance, in the system set up by the U.S. Constitution, the national government is divided into >three branches: legislative, executive, and judicial. The three branches are distinct and have checks and balances on each other.
+>Next, we will figure out some tips followed:
+>We want to do what is right, and we need power to achieve our goals. When talking about goals, for government, they want to keep a 。》>relatively peaceful domestic political environment. While for individuals, they are pursuing justice and persisting principles.
+>Now we are clear of definitions, next I will demonstrate from the following four aspects: the history of formation of American spirits, >democracy, American culture and people’s principle, social norm and social system.
+>In the former two parts, we will concentrate on the subjectivity of individuals. In this part, you will make a better understanding of >the phrase” people want do what is right, they will avoid abusing power.”
+>In the last two parts, you will learn what Americans have done to avoid abusing power. 
+>To be specific, first, human nature formed through American history shows us people’s belief in pursuing justice and freedom. Second, >the realization of democracy in America proves that people manage to avoid abusing power, Third, an internal restriction both to >individuals and governments formed from America culture, which avoid power being abused. Last but not least, social norms and systems >play a more important role in restricting power.  
+>To sum up, people want to do what is right, and they have made efforts to avoid power being abused. such as legislations and making >rules.
 
 
-你可以跟我喊冤，说你也想反抗过，说你也很无奈。说你也思考过政府和媒体的关系，说你也知道权利、体制的可怖与强大，说你不能承担反抗的后果。
+Hello, everyone, as is showed on the screen, today we are going to talk about the topic about power. I represent our group to give the speech. We hold the view that people want to do right things, so they will avoid abusing power.
+Let’s begin with the system of checks and balance.
 
-可难道那些国乒远动员们不知道吗？从小成长在体制内的他们，比你清楚得多太多了。可是为了自己的权利、自己的公平，自己的爱，他们还是集体站出来了啊！他们直面着比你大得多的体制压力，承受着可能影响他们一生的严重后果。你告诉他们应该隐忍？识大体？沉默？那叫做苟且，叫做冷血，叫做向暴政与不公屈服！他们也知道，在体制面前他们势单力薄，可能是以卵击石头。他们不顾一切的发声，那是在请求我们的帮助啊！
+In the system set up by the U.S. Constitution, the national government is divided into three branches: legislative, executive, and judicial. The three branches are distinct and have checks and balances on each other.
+Next, let’s figure out the three tips followed. 1. What power we are talking about today, 2.how to define abusing power 3.what goal we want to achieve by getting and using power.
 
-而你现在却还在问我你为什么要怪罪我，而不去怪罪那些「上面」的人？
+Let’s go through the 3 problems one by one.
 
-我当然也怪罪「上面」的人！但是你们，是你们！直接挡住了他们的求救，挡住了人民的援助，挡住了人民发声的渠道啊！传统媒体是 D 的喉舌，而你们呢，为自由奋斗的你们呢？你们本该成为人民的耳朵、眼睛和嘴啊，现在却愿意让人民都成为聋子、瞎子、哑巴了吗？
+First, Power is a key sociological concept, Max Weber has defined it as the ability to control others, events, or resources;
+Second, how can we judge whether power is been abused? When people do things beyond their power or make benefits from their power or they do bad things using power may be called abusing power. You can see two examples listed on the screen.
+Third, apparently, we want to do right things, and we need power to achieve our goals. What goals? 
 
-你们或许觉得一己之力无法改变任何事情，于是沉默，每个人都沉默，仿佛罪恶都被平摊了，到每个人身上就都接近于 0 了。仿佛这一切就都理所应当了，可是真的就理所应当了吗？
+For government, there are three points. 1.to keep a relatively peaceful domestic political environment. 2. to keep a steady development. 
+For individuals and groups, we want to do right things-------the pursue of justice and the persistence in principles.
 
-**一群人在作恶时，每个个体就不是在作恶了吗！？**
+Ok, now we are clear, next I will demonstrate from the following four aspects. The history of formation of American spirits, democracy, American culture and people’s principle, social norm and social system. In the former two parts, we will concentrate on the subjectivity of individuals. you will see the values of Americans. In that way , you may make a better understanding of the phrase” people want do what is right, they will avoid abusing power.” In the last two parts, you will learn what we have done to avoid abusing power. On the one hand, our culture identity makes a society filled with citizens full of sense of justice. They won’t make benefits from power. On the other hand, we make efforts, such as legislation, the system of checks and balance, democratic systems and so on, to make sure that power won’t be abused.
 
-**天再黑也要说话啊。**
+1)	The history of formation of American spirits
 
-<br />
+1.	Human nature inherited from Europe
+
+During the Reformation in the sixteen century, Puritans came into being with strong pursuit of equality and opposition of the despotic regime. Persecuted by the British king, CharlesⅠ, they migrated to North America for freedom. This first group of immigrants signed the Mayflower Compact in which the principle of freedom and equality became the root of American ideology and culture.
+The revolution thoughts rooting deeply in their hearts blossomed on the expansion of land in America. They established the fundamental beliefs of America: refuse despotic regime, hate the differences between social class, advocate equality, pursue fairness and justice. Regardless of the origin they believe almost all human beings want to do what is right.
+
+2.	Human nature developing from itself
+
+American westward expansion process is a return to primitive conditions on a continually advancing frontier line, and a new development for that area. Bringing new opportunities, the expansion continuously collides with the simplicity of primitive society, furnish the forces dominating American character (Frederick. J. Turner, The significance of frontier in American history). The more American moved westward, the more they get rid of the European influence, and formed a more unique American character: united, friendly and genuine.
+In the process of expansion and development in America, the common ideal of building the country and creating better life made them combine closely and unite compactly. Driven by common interests, they tend to show respect to everyone for the same sincere and nice human nature in them, and thus they are affable all the time.
+
+Under such background, the United States has formed a belief in pursuing justice and equality which is the core ideology of Americans of all generations.
+
+2)	Democracy
+
+Democracy is "a system of government in which all the people of a state or polity ... are involved in making decisions about its affairs, typically by voting to elect representatives to a parliament or similar assembly." (From Wikipedia)  The cares of political life engross a most prominent place in the occupation of a citizen in the United States. 
+Regarding democracy,
+
+On the one hand, It gives people a chance to secure their own rights, showing that all people are equal. It reminds people of the fact that no one is superior to others, so people’s ideas are equal important. If people abuse power, they are ignoring others’ voices, Democracy is "a system of government in which all the people of a state or polity ... are involved in making decisions about its affairs, typically by voting to elect representatives to a parliament or similar assembly."(From Wikipedia) 
+
+On the one hand, It gives people a chance to secure their own rights, showing that all people are equal. It reminds people of the fact that no one is superior to others, so people’s ideas are equal important. If people abuse power, they are ignoring others’ voices. Since people want to do what is right, they will avoid this from happening. 
+
+On the other hand, the realization of democracy in America in turn proves that people manage to avoid abusing power. According to the Democracy Index, the score of United States is 8.11, classified as full democracy. If people abuse power, it would be hard to establish democracy. Of course it would be impossible for such a country to be considered as a democratic one.
+3)	American culture and people’s principle
+
+Hegel, a leading German philosopher during Marx's early studies, theorized that social life and society grew out of thought.  Now let’s think about it: In the power system, what role do people’s thoughts play in avoiding power from abusing?
+
+In the first place, for better understanding, we need to be clear of something. Regarding abusing power, there are two subject of it, the government represents the public powers, while citizens, whether ordinary person or assemblyman, are in charge of their own private power. Based on the two subject above, we will figure some illustrates both individually and collectively to make it clear that how America culture, in other words, American’s belief and principles in dealing with things, play a key part in power system of society.
+On the one hand, self-constraint developed out of people’s thoughts. It in turn plays a key part in forming the environment in which people do things for goodness. 
+
+Surrounded by people full of sense of justice, living in a highly democratic society, it is easy for one to stick to principles in social life, especially in using individual power.
+
+For example, in contrast with China, America does better in freedom of speech. However, to some degree, there is much more restrict in speech sometimes in American, for people have strong sense responsibility and awareness of their own rights, which reflect that people won’t abusing the right they enjoy, it is applied to power using.
+
+Another example is the Classification of audio and video products, which originated in 1990’s, in order to create a relatively pure environment for teenagers, meanwhile keeping a rapid development in film industry. MPAA established the system. In conclusion, the two examples together prove that Americans, person or the collective, when pursuing their own interests, will put the principle, you can put it as responsibility to society, in the first place. 
+
+Under such circumstance, it is no doubt that they won’t abuse power. What’s more, the deeply rooted justice thought, which almost every American film is filled with, as one of their principles and beliefs, make it impossible for them to abuse personal power.
+On the other hand, American culture plays a key part in social-constraints. For example, the separation of religion and government, in some ways, is for the purpose of avoiding the power of religion being abused. It can be proved in the contrast with some Islamic state.
+To sum up, government or citizens, in such a culture environment, won’t let things like abusing power happen. 
+
+4) social norm and social system
+
+We want to do what is right, and are trying so hard to realize the beautiful aspiration which people are longing for. The best trial during human history is making rules to restrain power. 
+
+Being bound by legal and moral ties, we can not only avoid abusing power but use it to do good to our people. 
+
+Will power be abused? It may depends on the person who are using it, but we have been trying our best to avoid abusing power.
+Just as the American constitution preface says:” We the people of the United States, in order to form a more perfect Union, establish justice, insure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, do ordain and establish this Constitution for the United States of America.” People have a strongly desire to live a better life and they do try to achieve it. The ideal society is on the basis of ordering, according to Montesquieu, “ Unfettered power lead to corruption inevitably”. 
+
+To some degree, the system of Check and balance is a reflection of people’s efforts to avoid power being abused. When the constitution was drafted, the father of America must have being thinking of it.
 
 
-我是一个胖球迷，从小就是。初中、高中、大学一路在校队打着酱油，参加一些业余的小比赛。很多人说在中国会打点胖球没什么稀奇，这是国球。很多人说打胖球不帅，女生们都围着打篮球的转。可是没办法，我就是喜欢，床头贴着 LGL 带着二王一马拿下世乒赛的海报，家里的《乒乓世界》一垛又一垛，一直到现在也不舍得扔。
+To sum up, people want to do what is right, and they have made efforts to avoid power being abused. such as legislations and making rules.
 
-我是一个程序员，从小就是。在几家公司打过酱油，做过一些小分享。很多人说程序员都是农民，天天干一些重复的事情，加班多，死得早。可是没办法，我就是喜欢，喜欢互联网这个崇尚自由与平等的地方，欣赏那些用互联网让世界变得更加美好的人们。我不是为了谋生而选择了这个职业，我是为了自由与骄傲。
+>1.	human nature formed through American history convinced us of people’s belief in pursuing justice and freedom , 
 
-> We will not go quietly into the night!   
-> We will not vanish without a fight!   
-> We're going to live on!   
-> We're going to survive!   
-> Today, we celebrate our Independence Day!  
+>2.	the realization of democracy in America in turn proves that people manage to avoid abusing power, 
 
-**国乒，愿有属于你们的独立日。**
+>3.	An internal restriction both to individuals and governments formed from America culture.
+
+>4.	Social norms and systems play a more important role in restricting power. 
+
+Miranda warning
+
+  For instance, we always see this in movies like “You have the right to remain silent. Anything you say can and will be used against you in a court of law. You have the right to an attorney present during questioning. If you cannot afford an attorney, one will be appointed for you.” The famous word comes from Miranda warning that was a boy called Miranda who had be accused of rape and kidnap and had be forced to admit his guilty. But he had chose to appeal and SJC had voted to defeasance the judge of local court for the policeman had not let Miranda into due constitutional right and had reiterated the rules about interrogate, and that’s Miranda warning.
+  Court can avoid policeman’s power from abusing through making law. That’s the try, the awareness and belief of justice, we will establish a better world.
+
+
