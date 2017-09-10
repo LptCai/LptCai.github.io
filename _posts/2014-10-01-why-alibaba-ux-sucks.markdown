@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "谈萧红"
-subtitle:   "《黄金时代》读后感"
+title:    谈萧红
+subtitle:    《黄金时代》观后感
 date:       2015-10-1 12:00:00
 author:     "CaiYun"
 header-img: ""
