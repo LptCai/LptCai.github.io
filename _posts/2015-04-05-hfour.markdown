@@ -89,7 +89,7 @@ tags:
 
 **第二章 感情的人质**
 
-![]img/in-post/h4-born.jpg
+![](img/in-post/h4-born.jpg)
 
 乔照顾着阿加莎，从不过问她的过去，阿加莎也从未意识到乔对她的事洞若明镜。
 
@@ -121,7 +121,7 @@ tags:
 
 **第三章 正确的错误**
 
-![]img/in-post/h4-revenge.jpg
+![](img/in-post/h4-revenge.jpg)
 
 两年后
 
@@ -133,7 +133,7 @@ tags:
 
 **第四章 记忆的谎言**
 
-![]img/in-post/h4-meet.jpg
+![](img/in-post/h4-meet.jpg)
 
 这次阿加莎将前往她的故乡SNAU执行任务。
 
@@ -167,7 +167,7 @@ tags:
 
 **第五章 硬币的第三面**
 
-![]img/in-post/h4-wake.jpg
+![](img/in-post/h4-wake.jpg)
 
 阿加莎在默格娜的办公室遇见了她的哥哥雷鲁，雷鲁带来了乔出事的消息。
 
@@ -209,7 +209,7 @@ tags:
 
 **第六章 折翼的恶魔**
 
-![]img/in-post/h4-die.jpg
+![](img/in-post/h4-die.jpg)
 
 各怀心事却选择了同一条路的人一起借助改造人与载人机甲的力量，成功征服了世界。
 
