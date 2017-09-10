@@ -8,24 +8,18 @@ header-img: ""
 ---
 
 Today we are going to talk about the topic on power abusing. We hold the view that people want to do what is right, so they will avoid abusing power.
->To begin with US system of checks and balance, in the system set up by the U.S. Constitution, the national government is divided into three branches: legislative, executive, and judicial. The three branches are distinct and have checks and balances on each other.
 
->Next, we will figure out some tips followed:
-
->We want to do what is right, and we need power to achieve our goals. When talking about goals, for government, they want to keep a relatively peaceful domestic political environment. While for individuals, they are pursuing justice and persisting principles.
-
->Now we are clear of definitions, next I will demonstrate from the following four aspects: the history of formation of American spirits, democracy, American culture and people’s principle, social norm and social system.
-
+>To begin with US system of checks and balance, in the system set up by the U.S. Constitution, the national government is divided into three branches: legislative, executive, and judicial. The three branches are distinct and have checks and balances on each other.<br>
+>Next, we will figure out some tips followed:<br>
+>We want to do what is right, and we need power to achieve our goals. When talking about goals, for government, they want to keep a relatively peaceful domestic political environment. While for individuals, they are pursuing justice and persisting principles.<br>
+>Now we are clear of definitions, next I will demonstrate from the following four aspects: the history of formation of American spirits, democracy, American culture and people’s principle, social norm and social system.<br>
 >In the former two parts, we will concentrate on the subjectivity of individuals. In this part, you will make a better understanding of 
-the phrase” people want do what is right, they will avoid abusing power.”
-
->In the last two parts, you will learn what Americans have done to avoid abusing power. 
-
->To be specific, first, human nature formed through American history shows us people’s belief in pursuing justice and freedom. Second, >
-the realization of democracy in America proves that people manage to avoid abusing power, Third, an internal restriction both to >
-individuals and governments formed from America culture, which avoid power being abused. Last but not least, social norms and systems >
-play a more important role in restricting power.  
-
+the phrase” people want do what is right, they will avoid abusing power.”<br>
+>In the last two parts, you will learn what Americans have done to avoid abusing power. <br>
+>To be specific, first, human nature formed through American history shows us people’s belief in pursuing justice and freedom. Second, 
+the realization of democracy in America proves that people manage to avoid abusing power, Third, an internal restriction both to 
+individuals and governments formed from America culture, which avoid power being abused. Last but not least, social norms and systems 
+play a more important role in restricting power.  <br>
 >To sum up, people want to do what is right, and they have made efforts to avoid power being abused. such as legislations and making rules.
 
 
@@ -102,13 +96,10 @@ To some degree, the system of Check and balance is a reflection of people’s ef
 
 To sum up, people want to do what is right, and they have made efforts to avoid power being abused. such as legislations and making rules.
 
->1.	human nature formed through American history convinced us of people’s belief in pursuing justice and freedom , 
-
-2.	the realization of democracy in America in turn proves that people manage to avoid abusing power, 
-
-3.	An internal restriction both to individuals and governments formed from America culture.
-
-4.	Social norms and systems play a more important role in restricting power. 
+>1.	human nature formed through American history convinced us of people’s belief in pursuing justice and freedom , <br>
+>2.	the realization of democracy in America in turn proves that people manage to avoid abusing power, <br>
+>3.	An internal restriction both to individuals and governments formed from America culture.<br>
+>4.	Social norms and systems play a more important role in restricting power. 
 
 **Miranda warning**
 
