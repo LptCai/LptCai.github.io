@@ -4,7 +4,7 @@ title:    星星谣
 subtitle:    关于三段式叙事理论的运用
 date:       2015-05-03 12:00:00
 author:     "CaiYun"
-header-img: "img/post-bg-fez.JPG"
+header-img: " "
 catalog: true
 tags:
     - 游戏
