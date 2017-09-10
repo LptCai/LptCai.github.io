@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:     经典游戏分析之FEZ
-subtitle:   独立游戏
+title:  经典游戏分析之FEZ
+subtitle:  独立游戏
 date:       2015-12-29 12:00:00
 author:     "CaiYun"
 header-img: "img/post-bg-2015.jpg"
@@ -15,6 +15,8 @@ tags:
 
 作为一款将玩家带回Schooling game时代的极富创意与挑战的游戏，FEZ静止的像素风格、动人的音乐、开放的世界、有别于传统冒险游戏的视角旋转玩法，以及融合了多种要素的解谜系统，远远超过了对于经典的模仿与致敬，是创作者始于游戏发于游戏的激情缔造了这款在独立游戏史上留下辉煌一笔的游戏。
 
+---
+
 **第一部分 游戏评价**
 
 **1.获奖情况：**
@@ -23,9 +25,8 @@ tags:
 
 **2.游戏评分：**
 
-![](/img/in-post/gameAnalysis-fez/score.jpg)
 
-![](/img/in-post/gameAnalysis-fez/score0.jpg)
+
 ---
 
 **第二部分 游戏销量及分析**
