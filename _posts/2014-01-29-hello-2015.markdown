@@ -1,35 +1,32 @@
 ---
 layout:     post
-title:      "Hello 2015"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
+title:      "经典游戏分析之FEZ"
+subtitle:   " 独立游戏 "
+date:       2015-012-29 12:00:00
+author:     "CaiYun"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 生活
+    - 游戏
 ---
 
-> “Yeah It's on. ”
+>FEZ是由PolyTRon Corp开发的一款游戏，于2012年4月份登陆XBLA，2013年5月1日登陆PC，目前已登陆平台有PS3，XBOX360，PC，PSV等平台。<br>
+>FEZ是一款利用视角转换来改变关卡进行游戏世界探索的动作冒险游戏，主角Gomez是生活在3D世界的2D生物，在收到冒险召唤信息之后踏上旅程，通过收集立方体不断发现新世界，探索新维度，挑战多样的谜题，最终表现“时空尽头”这一意味深远的主题。
+
+作为一款将玩家带回Schooling game时代的极富创意与挑战的游戏，FEZ静止的像素风格、动人的音乐、开放的世界、有别于传统冒险游戏的视角旋转玩法，以及融合了多种要素的解谜系统，远远超过了对于经典的模仿与致敬，是创作者始于游戏发于游戏的激情缔造了这款在独立游戏史上留下辉煌一笔的游戏。
 
 
-## 前言
+## 游戏评价
 
-Hux 的 Blog 就这么开通了。
+### 1.获奖情况：
 
-[跳过废话，直接看技术实现 ](#build) 
+《FEZ》获CDC 2012最佳独立游戏奖项
 
+### 2.游戏评分：
 
+![](/img/in-post/gameAnalysis-fez/score.jpg)
 
-2015 年，Hux 总算有个地方可以好好写点东西了。
-
-
-作为一个程序员， Blog 这种轮子要是挂在大众博客程序上就太没意思了。一是觉得大部分 Blog 服务都太丑，二是觉得不能随便定制不好玩。之前因为太懒没有折腾，结果就一直连个写 Blog 的地儿都没有。
-
-在玩了一段时间知乎之后，答题的快感又激起了我开博客的冲动。之前的[个人网站](http://huangxuan.me/portfolio)是作品集形式的（现在集成进来了），并不适合用来写博文，一不做二不休，花一天搞一个吧！
-
-
-<p id = "build"></p>
+![](/img/in-post/gameAnalysis-fez/score0.jpg)
 ---
 
 ## 正文
