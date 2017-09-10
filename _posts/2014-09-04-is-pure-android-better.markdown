@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      如水之叙
+title:    如水之叙
 subtitle:   《唐顿庄园》画面语言探究
 date:       2014-09-04 12:00:00
 author:     "CaiYun"
