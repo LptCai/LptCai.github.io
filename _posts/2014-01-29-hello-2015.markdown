@@ -4,7 +4,7 @@ title:    经典游戏分析之FEZ
 subtitle:    独立游戏
 date:       2015-12-29 12:00:00
 author:     "CaiYun"
-header-img: "img/post-bg-fez.jpg"
+header-img: "img/post-bg-fez.JPG"
 catalog: true
 tags:
     - 游戏
