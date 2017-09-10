@@ -1,25 +1,18 @@
 ---
 layout:     post
-title:      "饿了么的 PWA 升级实践"
-subtitle:   "Upgrading Ele.me to Progressive Web App"
-date:       2017-07-12 12:00:00
-author:     "Hux"
+title:      "因人而异的游戏吸引力"
+subtitle:   "基于“荣格人格结构理论”"
+date:       2016-07-04 12:00:00
+author:     "CaiYun"
 header-img: "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-    - 前端开发
-    - JavaScript
-    - PWA
+    - 游戏心理学
+    - 游戏策划
 ---
-
-
-> 很荣幸在今年 2 月到 5 月的时间里，以顾问的身份加入饿了么，参与 PWA 的相关工作。这篇文章其实最初是在以英文写作发表在 medium 上的：[Upgrading Ele.me to Progressive Web Apps](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)，获得了一定的关注。所以也决定改写为中文版本再次分享出来，希望能对你有所帮助 ;) <br><br>
-> 本文首发于 [CSDN](http://geek.csdn.net/news/detail/210535) 与《程序员》2017 年 7 月刊，同步发布于 [饿了么前端 - 知乎专栏](https://zhuanlan.zhihu.com/ElemeFE)、[Hux Blog](https://huangxuan.me)，转载请保留链接。
-
-
-自 Vue.js 官方推特第一次[公开][1]到现在，我们就一直在进行着将[饿了么移动端网站](https://h5.ele.me/msite/#pwa=true)升级为 [Progressive Web App][2] 的工作。直到近日在 Google I/O 2017 上[登台亮相](https://m.weibo.cn/status/4109332495285652)，才终于算告一段落。我们非常荣幸能够发布全世界第一个专门面向国内用户的 PWA，但更荣幸的是能与 Google、UC 以及腾讯合作，一起推动国内 web 与浏览器生态的发展。
-
+> 游戏有别于其他艺术形式最为显著的因素即是“人”，从原始人类为生存而战的竞技，到现代为娱乐而生的琳琅满目的游戏产品，游戏在不停的自我发展中不断丰富，而游戏的发展脉络与人类社会的发展一脉相承：从单一背景到多元文化的融合；从机械的运动到多样的系统；从全年龄层青睐的俄罗斯方块、超级马里奥到强调自我表达的独立游戏（风之旅人、FEZ等）。游戏世界的复杂变化，游戏分类的渐趋细化杂化，众类型游戏的融合等现象无不反映出游戏中人因的影响。 <br><br>
+> “游戏的魅力在于寻找事物之间的联系，探索游戏世界的构成，当你在玩游戏的时候，其实就是在感知并且去解构那些深藏其间的联系——从游戏面板上的每一个章节、单元，到竞技中的玩家，再到虚拟世界里的生命与外界真实生命的相互映射，并以此来探索、创造你眼中新世界的意义。” 
 ## 多页应用、Vue、PWA？
 
 对于构建一个希望达到原生应用级别体验的 PWA，目前社区里的主流做法都是采用 SPA，即单页面应用模型（Single-page App）来组织整个 web 应用，业内最有名的几个 PWA 案例 [Twitter Lite][3]、 [Flipkart Lite][4]、[Housing Go][5] 与 [Polymer Shop][6] 无一例外。
