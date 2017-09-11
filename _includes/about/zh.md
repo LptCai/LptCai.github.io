@@ -1,14 +1,14 @@
-> 中国传媒大学
-> 2014级数字媒体技术（游戏设计技术方向）
+> 中国传媒大学<br>
+> 2014级数字媒体技术（游戏设计技术方向）<br>
 > 代码与诗
 
 ---
 
 > 社交信息
 
-- [微博](weibo.com/huxpro)
-- [知乎](https://www.zhihu.com/people/huxpro/pins/posts)
-- [Github](http://github.com/huxpro)
+- [微博](http://weibo.com/u/5508512890/home?leftnav=1)
+- [知乎](http://www.zhihu.com/people/cloudy-blank?utm_source=qq&utm_medium=social)
+- [Github](https://github.com/LptCai)
 
 
 >兴趣爱好
