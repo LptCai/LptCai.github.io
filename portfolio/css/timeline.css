@@ -150,7 +150,7 @@ body, html {
     display: block;
     width: 40px;
     height: 40px;
-    background: url("../images/unity-ico.jpg") 50% 50% no-repeat;
+    background: url("../images/logo-unity.png") 50% 50% no-repeat;
     background-size: 20px;
 }
 
@@ -159,7 +159,7 @@ body, html {
 	display: block;
 	width: 40px;
 	height: 40px;
-	background: url("../images/ps-ico.jpg") 50% 50% no-repeat;
+	background: url("../images/logo-ps.png") 50% 50% no-repeat;
 	background-size: 20px;
 }
 
@@ -168,7 +168,7 @@ body, html {
 	display: block;
 	width: 40px;
 	height: 40px;
-	background: url("../images/opengl-ico.png") 50% 50% no-repeat;
+	background: url("../images/logo-opengl.png") 50% 50% no-repeat;
 	background-size: 20px;
 }
 
