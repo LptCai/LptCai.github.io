@@ -67,7 +67,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "change the love"
+sidebar-about-description: "The kind of beauty I want most is the hard-to-get kind, that conmes from within strenth, courge,dignity."
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
