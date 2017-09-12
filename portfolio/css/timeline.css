@@ -145,30 +145,30 @@ body, html {
 }
 
 /** Venders Logo **/
-.i-vue:before {
+.i-unity:before {
 	content: "";
     display: block;
     width: 40px;
     height: 40px;
-    background: url("../images/logo-vue.png") 50% 50% no-repeat;
+    background: url("../images/unity-ico.jpg") 50% 50% no-repeat;
     background-size: 20px;
 }
 
-.i-kissy:before {
+.i-ps:before {
 	content: "";
 	display: block;
 	width: 40px;
 	height: 40px;
-	background: url("../images/logo-kissy.png") 50% 50% no-repeat;
+	background: url("../images/ps-ico.jpg") 50% 50% no-repeat;
 	background-size: 20px;
 }
 
-.i-jquery:before {
+.i-opengl:before {
 	content: "";
 	display: block;
 	width: 40px;
 	height: 40px;
-	background: url("../images/logo-jquery.png") 50% 50% no-repeat;
+	background: url("../images/opengl-ico.png") 50% 50% no-repeat;
 	background-size: 20px;
 }
 
@@ -177,7 +177,7 @@ body, html {
 	display: block;
 	width: 40px;
 	height: 40px;
-	background: url("../images/logo-react.png") 50% 50% no-repeat;
+	background: url("../images/c++-ico.png") 50% 50% no-repeat;
 	background-size: 22px;
 }
 
